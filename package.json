@@ -1,6 +1,6 @@
 {
   "name": "fj-fold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FP-style array reduce",
   "main": "index.js",
   "scripts": {
