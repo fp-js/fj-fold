@@ -1,7 +1,7 @@
 {
   "name": "fj-fold",
   "version": "1.0.0",
-  "description": "",
+  "description": "FP-style array reduce",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
