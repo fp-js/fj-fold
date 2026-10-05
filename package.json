@@ -1,10 +1,10 @@
 {
   "name": "fj-fold",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "FP-style array reduce",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -25,13 +25,7 @@
   },
   "homepage": "https://github.com/fp-js/fj-fold",
   "devDependencies": {
-    "gulp": "^3.8.10",
-    "gulp-6to5": "^3.0.0",
-    "gulp-rename": "^1.2.0",
-    "gulp-run": "^1.6.6",
-    "gulp-sourcemaps": "^1.3.0",
-    "gulp-watch": "^4.1.0",
-    "mochify": "^2.2.0"
+    "mocha": "^11.7.0"
   },
   "dependencies": {
     "fj-curry": "^1.0.0"
